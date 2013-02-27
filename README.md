@@ -1,0 +1,1 @@
+A [ProtocolHandler](http://updates.html5rocks.com/2011/06/Registering-a-custom-protocol-handler) shim! Please don't use it yet... it is still in developement!
